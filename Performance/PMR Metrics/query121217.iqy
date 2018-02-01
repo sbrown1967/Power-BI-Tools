@@ -1,0 +1,16 @@
+WEB
+1
+https://mcrllc.sharepoint.com/myProjects/_vti_bin/owssvr.dll?XMLDATA=1&List={2B28A723-2282-4599-BDDC-C45CB72187A7}&View={2591CBC9-BD8E-439A-8627-2723463D3AAE}&RowLimit=0&RootFolder=%2fmyProjects%2fLists%2fProject%20Management%20Metrics
+
+Selection={2B28A723-2282-4599-BDDC-C45CB72187A7}-{2591CBC9-BD8E-439A-8627-2723463D3AAE}
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://mcrllc.sharepoint.com/myProjects/_vti_bin
+SharePointListView={2591CBC9-BD8E-439A-8627-2723463D3AAE}
+SharePointListName={2B28A723-2282-4599-BDDC-C45CB72187A7}
+RootFolder=/myProjects/Lists/Project%20Management%20Metrics
